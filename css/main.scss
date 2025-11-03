@@ -45,6 +45,40 @@ $background-color: #fdfdfd !default;
   text-decoration: underline;
 }
 
+.itasec-link { text-decoration: underline; }
+
+.organizers {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2rem;
+  align-items: start;
+  margin: 1.5rem 0;
+}
+
+.organizer {
+  display: grid;
+  grid-template-columns: 88px 1fr;
+  gap: 1rem;
+}
+
+.organizer img {
+  width: 88px;
+  height: 88px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 2px 8px rgba(0,0,0,.08);
+}
+
+.organizer p {
+  margin: 0;
+  line-height: 1.35;
+}
+
+.organizer a {
+  font-weight: 600;
+}
+
+
 /* font base */ 
 @font-face {
   font-family: 'Noto Sans';
