@@ -8,7 +8,7 @@ layout: page
 
 ## CTF-W Workshop, Co-located with <a href="https://itasec.it/" class="itasec-link">ITASEC25</a>
 
-Welcome to the Capture the Flag for Work (CTF-W) workshop webpage, which hosts all the info and news needed for the workshop.
+Welcome to the Digital Forensics workshop webpage, which hosts all the info and news needed for the workshop.
 
 <br>
 
