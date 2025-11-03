@@ -22,7 +22,7 @@ title: Digital Forensics Workshop
 
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Capture the Flag for Work (CTF-W) - Workshop co-located with ITASEC 2025
+  Digital Forensics Workshop - Workshop co-located with ITASEC 2026
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dfwitasec.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
