@@ -28,36 +28,38 @@ Welcome to the Digital Forensics workshop webpage, which hosts all the info and 
 
 <br>
 
-### Workshop Organizers
+### Workshop Organizers:
 
-<div class="organizers">
-
-  <div class="organizer">
-    <img src="{{ '/images/silvia.jpg' | relative_url }}" alt="Silvia Lucia Sanna">
-    <p>
-      <a href="https://www.saiferlab.ai/people/silviasanna" target="_blank" rel="noopener">Silvia Lucia Sanna</a><br>
-      <span>University of Cagliari (UNICA)</span>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
+    <img src="{{ '/images/davide.jpg' | relative_url }}" alt="Davide Maiorca" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
+    <p style="margin-top: 10px; text-align: center;">
+      <a href="https://www.saiferlab.ai/people/davidemaiorca" target="_blank">Davide Maiorca</a><br>
+      <span style="font-size: 0.8em; font-style: italic;">University of Cagliari (UNICA)</span>
     </p>
   </div>
-
-  <div class="organizer">
-    <img src="{{ '/images/battiato.jpeg' | relative_url }}" alt="Sebastiano Battiato">
-    <p>
-      <a href="https://web.dmi.unict.it/docenti/sebastiano.battiato" target="_blank" rel="noopener">Sebastiano Battiato</a><br>
-      <span>University of Catania (UNICT)</span>
+  <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
+    <img src="{{ '/images/emilio.jpg' | relative_url }}" alt="Emilio Coppa" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
+    <p style="margin-top: 10px; text-align: center;">
+      <a href="https://www.luiss.it/faculty/356596" target="_blank">Emilio Coppa</a><br>
+      <span style="font-size: 0.8em; font-style: italic;">LUISS Guido Carli</span>
     </p>
   </div>
-
-  <div class="organizer">
-    <img src="{{ '/images/lucacadonici.webp' | relative_url }}" alt="Luca Cadonici">
-    <p>
-      <a href="https://www.novaeraforensics.it/" target="_blank" rel="noopener">Luca Cadonici</a><br>
-      <span>European Forensics Institute</span>
+  <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
+    <img src="{{ '/images/marina.jpg' | relative_url }}" alt="Marina Ribaudo" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
+    <p style="margin-top: 10px; text-align: center;">
+      <a href="https://rubrica.unige.it/personale/VUZBWlNr" target="_blank">Marina Ribaudo</a><br>
+      <span style="font-size: 0.8em; font-style: italic;">University of Genoa (UNIGE)</span>
     </p>
   </div>
-
-</div
-
+  <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
+    <img src="{{ '/images/silvia.jpg' | relative_url }}" alt="Silvia Lucia Sanna" style="width: 100px; height: 100px; object-fit: cover; object-position: 50% 10%; border-radius: 50%;">
+    <p style="margin-top: 10px; text-align: center;">
+      <a href="https://www.saiferlab.ai/people/silviasanna" target="_blank">Silvia Lucia Sanna</a><br>
+      <span style="font-size: 0.8em; font-style: italic;">University of Cagliari (UNICA)</span>
+    </p>
+  </div>
+</div>
 
 
 ### Contact:
