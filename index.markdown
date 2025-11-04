@@ -4,7 +4,8 @@
 title: Homepage
 layout: page
 ---
-<img src="{{ 'images/banner.jpg' | relative_url }}" alt="Full-width image" style="width: 100%; height: auto; display: block;">
+<!--<img src="{{ 'images/banner.jpg' | relative_url }}" alt="Full-width image" style="width: 100%; height: auto; display: block;">-->
+<img src="images/banner.jpg" alt="Full-width image" style="width: 100%; height: auto; display: block;">
 
 ## Digital Forensics Workshop, Co-located with <a href="https://itasec.it/" class="itasec-link">ITASEC26</a>
 
