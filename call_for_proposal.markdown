@@ -21,12 +21,24 @@ nav: true
 
 Topics of interest include (but are not limited to):
 
+- Digital Forensics
+- Mobile Forensics
+- Cloud Forensics
+- Memory Forensics
+- Disk Forensics
+- IoT Foreniscs
+- Blockchain Forensics
+- Steganography
+- Deepfake detection
+- AI Forensics
+- Anti-forensics
+- Anti-anti-forensics
 
 <br>
 
 ## Submission Guidelines
 
-All proposals must be submitted by 5/12/2025 in English with a maximum of one page at the following EasyChair link [https://easychair.org/conferences/?conf=ctf4w](https://easychair.org/conferences/?conf=ctf4w) (proposals of only one author can be submitted)
+All proposals must be submitted by 5/12/2025 in English with a maximum of one page at the following EasyChair link [https://easychair.org/conferences/?conf=DFW-26](https://easychair.org/conferences/?conf=DFW-26) (proposals of only one author can be submitted)
 
 <br>
 
