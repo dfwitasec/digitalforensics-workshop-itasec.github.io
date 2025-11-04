@@ -9,7 +9,8 @@ nav: true
 # Workshop Program
 
 **Where**: UNICA, Facoltà di Ingegneria e Architettura
-**When**: Monday, February 9th, 09:30-18:30  
+
+**When**: Monday, February 9th, HALF-DAY (tbd)  
 
 ## Schedule
 
