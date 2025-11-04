@@ -4,7 +4,7 @@ title: Call For Proposal
 permalink: /CFP/
 nav: true
 ---
-<img src="'/images/banner_cfp.png' | relative_url" alt="Full-width image" style="width: 100vw; height: auto; display: block;">
+<img src="/images/banner_cfp.png | relative_url" alt="Full-width image" style="width: 100vw; height: auto; display: block;">
 
 <br>
 
